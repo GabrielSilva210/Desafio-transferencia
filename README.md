@@ -1,28 +1,29 @@
 💰 Desafio Transferência Bancária
 
-Este projeto é um simulador simples de operações bancárias, desenvolvido em Java, que permite ao usuário realizar as seguintes operações:
 
+Este projeto é um simulador simples de operações bancárias, desenvolvido em Java, que permite ao usuário realizar as seguintes operações:
 
 ✅ Consultar saldo
 
+
 ✅ Transferir valores
 
+
 ✅ Receber valores
+
 
 ✅ Sair do sistema
 
 
-🖥️ Tecnologias utilizadas 
+🚀 Tecnologias utilizadas
 
 Java 24
 
+IntelliJ IDEA
 
-IntelliJ IDEA (
-
-🚀 Como executar o projeto
+⚙️ Como executar o projeto
 
 Clone o repositório:
-
 
 bash
 
@@ -32,11 +33,13 @@ Edit
 
 git clone https://github.com/GabrielSilva210/Desafio-transferencia.git
 
-Abra o projeto em sua IDE Java preferida.
+Abra o projeto na sua IDE Java preferida (IntelliJ IDEA recomendado).
+
 
 Compile e execute o arquivo Desafio.java.
 
 📝 Funcionalidades
+
 Mostra o nome do cliente, tipo da conta e saldo inicial.
 
 Exibe um menu de opções:
@@ -53,58 +56,19 @@ Realiza operações conforme a escolha do usuário.
 
 Valida se há saldo suficiente antes de realizar transferências.
 
-🎯 Exemplo de uso
 
-plaintext
-
-
-Copy
-
-
-Edit
-
-
-***********************
-
-
-Nome do cliente: Clark Kent
-
-Tipo conta: Corrente
-
-Saldo atual: 1599.99
-
-
-
-***********************
-
-
-** Digite sua opção **
-
-1 - Consultar saldo
-
-2 - Transferir valor
-
-3 - Receber valor
-
-4 - Sair
-
-
-📄 Sobre
+📚 Sobre
 
 Este projeto foi criado como parte de um desafio de prática em Java, visando consolidar conhecimentos em:
 
-
 Estruturas condicionais
-
 
 Estruturas de repetição
 
-
 Manipulação de entrada de dados com Scanner
-
 
 👨‍💻 Autor
 
 Gabriel Silva
 
-linkedin: www.linkedin.com/in/gabriel-gonçalves-2337b526a
+LinkedIn: www.linkedin.com/in/gabriel-gonçalves-2337b526a
