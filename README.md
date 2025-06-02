@@ -65,6 +65,6 @@ Estruturas de repetição
 
 Manipulação de entrada de dados com Scanner
 
-📌 Autor
+👨‍💻 Autor
 Gabriel Silva
 linkedin: www.linkedin.com/in/gabriel-gonçalves-2337b526a
